@@ -1,0 +1,26 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jithinbalakrishnan/angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jithinbalakrishnan/angular/issues"
+  },
+  "homepage": "https://github.com/jithinbalakrishnan/angular#readme",
+  "dependencies": {
+    "angular-route": "^1.5.8",
+    "font-awesome": "^4.7.0",
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "angular-cookies": "^1.6.1"
+  }
+}
